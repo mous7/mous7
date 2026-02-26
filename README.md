@@ -119,7 +119,7 @@
 ---
 ## 🚀 Featured Work (Snapshot)
 
-> Repo links will be added after cleanup — this section is a curated overview.
+> Repo links will be added after cleanup this section is a curated overview.
 
 | | Project | Focus | Type |
 |:---:|:---|:---|:---:|
