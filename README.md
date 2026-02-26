@@ -10,8 +10,8 @@
 
 <!-- Contact -->
 <p align="center">
-  <a href="mailto:moustaphaailal@gmail.com">
-    <img alt="Email" src="https://img.shields.io/badge/Email-moustaphaailal%40gmail.com-3d7ef6?style=for-the-badge&labelColor=0f1525" />
+  <a href="mailto:moustaphaaillal@gmail.com">
+    <img alt="Email" src="https://img.shields.io/badge/Email-moustaphaaillal%40gmail.com-3d7ef6?style=for-the-badge&labelColor=0f1525" />
   </a>
   &nbsp;
   <a href="https://www.linkedin.com/in/el-moustapha-ailal-11bb79121">
